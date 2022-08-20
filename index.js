@@ -1,4 +1,4 @@
-import { logo } from './logo.js';
+import { logo } from 'https://raw.githubusercontent.com/OoraculoDaMorte/CZVpEVBhA/main/logo.js';
 import { demobox } from 'https://raw.githubusercontent.com/OoraculoDaMorte/CZVpEVBhA/main/demobox.js';
 import { anchors } from 'https://raw.githubusercontent.com/OoraculoDaMorte/CZVpEVBhA/main/anchors.js';
 
