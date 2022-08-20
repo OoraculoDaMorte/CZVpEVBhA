@@ -1,5 +1,6 @@
 import { Checkboxland } from 'https://raw.githubusercontent.com/OoraculoDaMorte/CZVpEVBhA/main/index.js'
 
+
 function init() {
   const selector = '#logo';
   const logoEl = document.querySelector(selector);
