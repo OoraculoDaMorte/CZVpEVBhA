@@ -1,11 +1,2 @@
-import { logo } from 'https://raw.githubusercontent.com/OoraculoDaMorte/CZVpEVBhA/main/logo.js';
-import { demobox } from 'https://raw.githubusercontent.com/OoraculoDaMorte/CZVpEVBhA/main/demobox.js';
-import { anchors } from 'https://raw.githubusercontent.com/OoraculoDaMorte/CZVpEVBhA/main/anchors.js';
 
-logo.init();
-demobox.init();
-anchors.init();
-
-/* add support for a no-focus class (for accessibility styling) */
-document.addEventListener('mousedown', () => document.body.classList.add('no-focus'));
-document.addEventListener('keydown', () => document.body.classList.remove('no-focus'));
+import{Checkboxland}from 'https://raw.githubusercontent.com/bryanbraun/checkboxland/main/src/checkboxland.js';import print from '.https://www.bryanbraun.com/checkboxland/src/plugins/print/print.js';import marquee from 'https://www.bryanbraun.com/checkboxland/src/plugins/marquee.js';import transitionWipe from 'https://www.bryanbraun.com/checkboxland/src/plugins/transitionWipe.js';import dataUtils from 'https://www.bryanbraun.com/checkboxland/src/plugins/dataUtils.js';import onClick from 'https://www.bryanbraun.com/checkboxland/src/plugins/onClick.js';import renderImage from 'https://www.bryanbraun.com/checkboxland/src/plugins/media/renderImage.js';import renderVideo from 'https://www.bryanbraun.com/checkboxland/src/plugins/media/renderVideo.js';Checkboxland.extend(print);Checkboxland.extend(marquee);Checkboxland.extend(transitionWipe);Checkboxland.extend(dataUtils);Checkboxland.extend(onClick);Checkboxland.extend(renderImage);Checkboxland.extend(renderVideo);export{Checkboxland}
