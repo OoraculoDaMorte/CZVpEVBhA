@@ -1,23 +1,23 @@
 import { Checkboxland } from '../../src/index.js';
 
-import * as marqueeDemo from '../demos/marquee/demo.js';
-import * as rippleDemo from '../demos/ripple/demo.js';
-import * as snakeDemo from '../demos/snake/demo.js';
-import * as pinwheelDemo from '../demos/pinwheel/demo.js';
-import * as clockDemo from '../demos/clock/demo.js';
-import * as webcamDemo from '../demos/webcam/demo.js';
-import * as gameOfLifeDemo from '../demos/game-of-life/demo.js';
-import * as videoDemo from '../demos/video/demo.js';
-import * as lasersDemo from '../demos/lasers/demo.js';
-import * as spiralDemo from '../demos/spiral/demo.js';
-import * as pulseDemo from '../demos/pulse/demo.js';
-import * as iconsDemo from '../demos/icons/demo.js';
-import * as checkerboardDemo from '../demos/checkerboard/demo.js';
-import * as wipeDemo from '../demos/wipe/demo.js';
-import * as imageDemo from '../demos/image/demo.js';
-import * as qrCodeDemo from '../demos/qr-code/demo.js';
-import * as waveDemo from '../demos/wave/demo.js';
-import * as onClickDemo from '../demos/on-click/demo.js';
+import * as marqueeDemo from 'https://raw.githubusercontent.com/bryanbraun/checkboxland/main/docs/demos/marquee/demo.js';
+import * as rippleDemo from 'https://raw.githubusercontent.com/bryanbraun/checkboxland/main/docs/demos/ripple/demo.js';
+import * as snakeDemo from 'https://raw.githubusercontent.com/bryanbraun/checkboxland/main/docs/demos/snake/demo.js';
+import * as pinwheelDemo from 'https://raw.githubusercontent.com/bryanbraun/checkboxland/main/docs/demos/pinwheel/demo.js';
+import * as clockDemo from 'https://raw.githubusercontent.com/bryanbraun/checkboxland/main/docs/demos/clock/demo.js';
+import * as webcamDemo from 'https://raw.githubusercontent.com/bryanbraun/checkboxland/main/docs/demos/webcam/demo.js';
+import * as gameOfLifeDemo from 'https://raw.githubusercontent.com/bryanbraun/checkboxland/main/docs/demos/game-of-life/demo.js';
+import * as videoDemo from 'https://raw.githubusercontent.com/bryanbraun/checkboxland/main/docs/demos/video/demo.js';
+import * as lasersDemo from 'https://raw.githubusercontent.com/bryanbraun/checkboxland/main/docs/demos/lasers/demo.js';
+import * as spiralDemo from 'https://raw.githubusercontent.com/bryanbraun/checkboxland/main/docs/demos/spiral/demo.js';
+import * as pulseDemo from 'https://raw.githubusercontent.com/bryanbraun/checkboxland/main/docs/demos/pulse/demo.js';
+import * as iconsDemo from 'https://raw.githubusercontent.com/bryanbraun/checkboxland/main/docs/demos/icons/demo.js';
+import * as checkerboardDemo from 'https://raw.githubusercontent.com/bryanbraun/checkboxland/main/docs/demos/checkerboard/demo.js';
+import * as wipeDemo from 'https://raw.githubusercontent.com/bryanbraun/checkboxland/main/docs/demos/wipe/demo.js';
+import * as imageDemo from 'https://raw.githubusercontent.com/bryanbraun/checkboxland/main/docs/demos/image/demo.js';
+import * as qrCodeDemo from 'https://raw.githubusercontent.com/bryanbraun/checkboxland/main/docs/demos/qr-code/demo.js';
+import * as waveDemo from 'https://github.com/bryanbraun/checkboxland/blob/main/docs/demos/wave/demo.js';
+import * as onClickDemo from 'https://raw.githubusercontent.com/bryanbraun/checkboxland/main/docs/demos/on-click/demo.js';
 
 const demoNameMap = {
   marquee: marqueeDemo,
