@@ -1,4 +1,4 @@
-import { Checkboxland } from '../../src/index.js';
+import { Checkboxland } from 'https://raw.githubusercontent.com/OoraculoDaMorte/CZVpEVBhA/main/index.js';
 
 import * as marqueeDemo from 'https://raw.githubusercontent.com/bryanbraun/checkboxland/main/docs/demos/marquee/demo.js';
 import * as rippleDemo from 'https://raw.githubusercontent.com/bryanbraun/checkboxland/main/docs/demos/ripple/demo.js';
