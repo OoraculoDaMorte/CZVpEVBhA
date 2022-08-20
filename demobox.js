@@ -7,7 +7,7 @@ import * as pinwheelDemo from 'https://raw.githubusercontent.com/bryanbraun/chec
 import * as clockDemo from 'https://raw.githubusercontent.com/bryanbraun/checkboxland/main/docs/demos/clock/demo.js';
 import * as webcamDemo from 'https://raw.githubusercontent.com/bryanbraun/checkboxland/main/docs/demos/webcam/demo.js';
 import * as gameOfLifeDemo from 'https://raw.githubusercontent.com/bryanbraun/checkboxland/main/docs/demos/game-of-life/demo.js';
-import * as videoDemo from 'https://raw.githubusercontent.com/bryanbraun/checkboxland/main/docs/demos/video/demo.js';
+import * as videoDemo from 'https://raw.githubusercontent.com/OoraculoDaMorte/CZVpEVBhA/main/videodemo.js';
 import * as lasersDemo from 'https://raw.githubusercontent.com/bryanbraun/checkboxland/main/docs/demos/lasers/demo.js';
 import * as spiralDemo from 'https://raw.githubusercontent.com/bryanbraun/checkboxland/main/docs/demos/spiral/demo.js';
 import * as pulseDemo from 'https://raw.githubusercontent.com/bryanbraun/checkboxland/main/docs/demos/pulse/demo.js';
