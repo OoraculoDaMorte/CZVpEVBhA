@@ -1,4 +1,4 @@
-import { Checkboxland } from '../../../src/index.js';
+import { Checkboxland } from 'https://raw.githubusercontent.com/OoraculoDaMorte/CZVpEVBhA/main/index.js';
 
 const width = 68;
 const height = 51;
